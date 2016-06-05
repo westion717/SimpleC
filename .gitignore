@@ -1,0 +1,7 @@
+bin/
+*.swp
+*.DS_Store
+.*
+!.gitignore
+build/
+lib/
